@@ -8,4 +8,9 @@ To execute the code type the command
 make output
 ```
 
+and then 
+
+```
+./output
+```
 The resulting image will be saved in scene.png
