@@ -1,2 +1,2 @@
-# Ray-Tracing
-Simple ray tracing project. Reads a scene of a json file then do the ray tracing renderization
+# IN204_projet
+Projet de traceur de rayon in programmation orientée objet
