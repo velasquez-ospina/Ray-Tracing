@@ -13,4 +13,4 @@ and then
 ```
 ./output
 ```
-The resulting image will be saved in scene.png
+The resulting image will be saved in scene.bmp
