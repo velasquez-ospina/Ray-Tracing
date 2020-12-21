@@ -1,9 +1,9 @@
 
 output: main.o
-	g++ main.o -o output 
+	mpirun -np 4 a.out
 
 main.o: main.cpp
-	g++ -c main.cpp
+	mpic++ main.cpp json11.cpp
 
 clean:
-	rm *.o output Scene.bmp
+	rm a.out Scene.bmp
